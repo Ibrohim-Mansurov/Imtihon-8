@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+:root {
+  --f-main-color: #1a73e8;
+  --f-text-color: #5f6368;
+  --f-font-family: Google Sans, -apple-system, BlinkMacSystemFont, sans-serif;
+}
+body {
+  padding: 0 15px;
+}
+.container {
+  max-width: 1310px;
+  margin: auto;
+}
+
+body {
+  overflow-x: hidden;
+}
